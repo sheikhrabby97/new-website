@@ -1,0 +1,49 @@
+/* header parts style*/
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-container {
+    width: 1865px;
+    height: 945px;
+    position: relative;
+    flex-shrink: 0;
+
+    background-image: url(./images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    padding:316px 260px 33px 1000px;
+}
+
+.slogan {
+    color: #FFF;
+text-align: right;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+padding: 0px 260px 41px 1150px;
+}
+.btn-1 {
+    color: #005FAC;
+text-align: right;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+border-radius: 5px;
+background: #FFF;
+margin: 0px 240px 186px 1455px;
+padding: 16px 24px 18px 27px;
+border: none;
+}
