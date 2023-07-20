@@ -2,11 +2,12 @@
 * {
     padding: 0px;
     margin: 0px;
-}
+
+} 
 
 .header-container {
-    width: 1865px;
-    height: 945px;
+    width: 1908px;
+    height: 984px;
     position: relative;
     flex-shrink: 0;
 
@@ -22,28 +23,75 @@
     font-family: Work Sans;
     font-size: 65px;
     font-weight: 700;
-    padding:316px 260px 33px 1000px;
+    padding: 316px 295px 33px 1040px;
 }
 
 .slogan {
     color: #FFF;
-text-align: right;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0px 295px 41px 1203px;
+}
+
+.btn-1 {
+    color: #005FAC;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    border-radius: 5px;
+    background: #FFF;
+    margin: 0px 217px 186px 1455px;
+    padding: 16px 30px 18px 27px;
+    border: none;
+}
+
+/* main content style */
+
+.main-design {
+    background-color: #FFF;
+}
+
+.profile-img>
+
+
+.profile-img {
+    
+}
+.img-design {
+    margin: 155px 105px 130px 230px;
+}
+
+.profile-heading {
+    color: #151414;
 font-family: Work Sans;
+text-align: right;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+padding: 370px 455px 26px 135px ;
+}
+
+.profile-detail {
+    color: #444343;
+font-family: Work Sans;
+text-align: right;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
-padding: 0px 260px 41px 1150px;
+padding: 0px 350px 18px 90px ;
 }
-.btn-1 {
-    color: #005FAC;
-text-align: right;
+
+.list-1 {
+    color:#444343;
 font-family: Work Sans;
-font-size: 20px;
+text-align: right;
+font-size: 16px;
 font-style: normal;
-font-weight: 600;
-border-radius: 5px;
-background: #FFF;
-margin: 0px 240px 186px 1455px;
-padding: 16px 24px 18px 27px;
-border: none;
+font-weight: 400;
+padding: 16px 389px  220px 87px;
 }
